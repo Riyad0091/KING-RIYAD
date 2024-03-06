@@ -311,7 +311,7 @@ def banner():
    {H} ║{P}[{H}•{P}] Author    :{warna} RIYAD-KING                 {N}{H}║
   {H}  ║{P}[{H}•{P}] Facebook  : {H}Riyazul Riyad             {N}{H}║
     {H}║{P}[{H}•{P}] Whatsapp  : {M}+8801884759441          {N}{H}║
-  {H}  ║{P}[{H}•{P}] Github    : {K}RIYAD-KING-143{N}    {H}  ║
+  {H}  ║{P}[{H}•{P}] Github    : {K}https://github.com/Riyad0091/KING-RIYAD{N}    {H}  ║
   {H}  ║{P}[{H}•{P}] Status    : {H}PREMIUM {P}     {N}      {H}     ║
    {H} ║{P}[{H}•{P}] Network   : {H}3G{N}, {H}4G/5G{N}, {H}ON{N}     {H}      ║
    {H} ║{P}[{H}•{P}] Version   : {H}2.0.9                   ║
@@ -378,7 +378,7 @@ def mainx():
     elif RIYAD in ["6","06"]:
      dupcutter()
     elif RIYAD in ["7","07"]:
-     os.system("xdg-open https://github.com/RIYAD-KING");mainx()
+     os.system("xdg-open https://github.com/Riyad0091/KING-RIYAD");mainx()
     elif RIYAD in ["8","08"]:
      os.system("xdg-open https://www.facebook.com/profile.php?id=100074768487367");mainx()
     elif RIYAD in ["0","00"]:
